@@ -1,0 +1,8 @@
+{
+  "name": "To-do list",
+  "version": "0.0.1",
+  "description": "A to-do list",
+  "dependencies": {
+    "express": "~4.9.8"
+  }
+}
