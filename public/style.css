@@ -23,3 +23,7 @@ p {
 #selectwrapper {
    padding-bottom: 20px;
 }
+
+.del {
+	cursor: pointer;
+}
