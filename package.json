@@ -1,5 +1,8 @@
 {
   "name": "TodoList",
   "version": "0.0.1",
-  "description": "A todo list"
+  "description": "A todo list",
+  "dependencies": {
+  	"express": "~4.12.1"
+  }
 }
