@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  margin:0;
+  padding-top:20px;
+}
+
+.high {
+  color: red;
+}
+
+.medium {
+  color: orange;
+}
+
+.low {
+  color: black;
+}
+
+#selectwrapper {
+   padding-bottom: 20px;
+}
